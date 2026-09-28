@@ -29,7 +29,7 @@ export function Footer() {
   };
 
   return (
-    <footer className="mt-24 bg-charcoal text-charcoal-foreground">
+    <footer className="bg-charcoal text-charcoal-foreground">
       {/* Four-column grid: brand, explore, legal, newsletter signup */}
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-16 sm:grid-cols-2 md:px-6 lg:grid-cols-4 lg:gap-8">
         <div>
